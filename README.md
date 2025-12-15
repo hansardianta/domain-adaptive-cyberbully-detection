@@ -13,8 +13,9 @@ To overcome this, we employ **Domain Adaptation Techniques**, specifically **Dom
 
 ## 📂 Repository Structure
 
-The repository is organized into two main directories: `DATASET` and `NOTEBOOKS`.
+The repository is organized into `cyberbully-detection-project` directory, which contains two main directories: `DATASET` and `NOTEBOOKS`.
 ```text
+cyberbully-detection-project/
 ├── DATASET/
 │   ├── final_data_twitter.csv
 │   ├── final_data_yt.csv
